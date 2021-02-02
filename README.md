@@ -7,7 +7,7 @@
 ## Clone this project
 
 ```bash
-> https://github.com/wahyuar18/ARyXuBOTV4
+> https://github.com/wahyuar18/ARyXuBOTV1
 ```
 
 ## Install the dependencies:
@@ -15,7 +15,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd ARyXuBOTV4
+> cd ARyXuBOTV1
 > bash install.sh
 ```
 
@@ -126,7 +126,7 @@ you've just cloned!!
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`Fadhil Graphy`](https://github.com/MrK4ZUT0)
-
+* [`AMPIBI`](https://github.com/affisjunianto)
 
 ## whatsapp number
 * [`WhatsApp`](wa.me/6281977578791)
