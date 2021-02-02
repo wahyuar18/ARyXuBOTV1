@@ -124,8 +124,8 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ├ ◩ *Role* : ${role} 
 ├ ◩ *Level* : ${getLevelingLevel(sender)}
 ├ ◩ *User register* : ${_registered.length}
-├ ◩ *Time* : ${time}
 ╰──────[ 𝙮𝙓𝙪 𝘽𝙊𝙏 ]──────
+
 
 ╭────[ 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧 ]────
 ├ ◩ *Name* : 𝙮𝙓𝙪 𝘽𝙊𝙏
